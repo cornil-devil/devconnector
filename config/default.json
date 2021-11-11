@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Cornil26:Cornil%40123@devconnector.fnszk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
